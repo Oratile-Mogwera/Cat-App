@@ -6,7 +6,7 @@ body {
 .cat {
 background-color: #88ff00;
 border: 4px solid #e01b94;
-margin: 1em;
+margin: 0.5em;
 padding: 1em;
 border-radius: 1em;
 flex : 1;
